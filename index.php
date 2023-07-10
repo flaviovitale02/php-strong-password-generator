@@ -13,7 +13,7 @@ if (isset($_POST['length']) && is_numeric($_POST['length']) && $_POST['length'] 
 require_once __DIR__ . './functions.php';
 
 ?>
-
+ 
 <?php
 require_once __DIR__ . './head.php';
 ?>
